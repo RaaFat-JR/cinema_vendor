@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1057357114278",
+    "project_id": "cinemaapp-12b39",
+    "storage_bucket": "cinemaapp-12b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057357114278:android:e8c3e3d6dc76c8ae703d67",
+        "android_client_info": {
+          "package_name": "com.appbrewery.cinema_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057357114278-4p707h8jfiba0fgfh797pl42n6335rki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhIVH04uzSxFD_Lr6r5RPM0trXE_dalg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057357114278-4p707h8jfiba0fgfh797pl42n6335rki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057357114278:android:85a2e36686fb739b703d67",
+        "android_client_info": {
+          "package_name": "com.appbrewery.ticket_reservation_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057357114278-4p707h8jfiba0fgfh797pl42n6335rki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhIVH04uzSxFD_Lr6r5RPM0trXE_dalg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057357114278-4p707h8jfiba0fgfh797pl42n6335rki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
