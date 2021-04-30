@@ -1,6 +1,6 @@
 # cinema_vendor
 
-A new Flutter application.
+A cinema vendor app for adding movies and view the booked seats for each movie.
 
 ## Getting Started
 
